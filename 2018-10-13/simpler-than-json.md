@@ -6,7 +6,7 @@ Source:
 
 * https://jsdelfino.blogspot.com/2009/11/simpler-than-json.html
 
-## Comparing:
+## Comparing
 
 ## XML
 
