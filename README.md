@@ -3,6 +3,10 @@
 > Should be in the Reading project in the future.
 > 2018-10-03
 
+## 2018-12-19
+
+* [Quart-Trio](2018-12-19/quart-trio.md)
+
 ## 2018-12-18
 
 * [asyncio aiohttp](2018-12-18/asyncio-aiohttp.md)
